@@ -4,19 +4,19 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_payment"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/pay"
             android:title="Make Payment" />
         <item
             android:id="@+id/nav_destination"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/location"
             android:title="Choose Destination" />
         <item
             android:id="@+id/nav_recommendation"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/rec"
             android:title="Our Recommendations" />
         <item
             android:id="@+id/nav_map"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/map"
             android:title="Map" />
     </group>
 
